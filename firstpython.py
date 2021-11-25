@@ -5,4 +5,7 @@ print(b)
 c=6+6
 print(c)
 
+w=6+7
+print(w)
+
 aaaaaa
